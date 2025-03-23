@@ -11,3 +11,8 @@ Welcome to the Social Post Sharing App! This application allows users to create 
 🌍 Share with Others – Engage and interact with other users.
 
 ❤️ Like & Comment (Coming soon!) – Enhance engagement with reactions and discussions.
+
+
+📱📷 App Preview
+
+![alt text](image.png)
